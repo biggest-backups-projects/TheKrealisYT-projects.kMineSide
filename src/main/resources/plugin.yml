@@ -1,0 +1,19 @@
+name: kMineSide
+version: 2.0
+main: kleksystudio.kMineSide.Main
+author: NaulbiMIX
+description: Уникальный плагин, который поддерживает все системы сервера kMineSide
+commands:
+  case:
+  log:
+  mine:
+  ping:
+  portals:
+  pvp:
+  quest:
+  rtp:
+  shops:
+  soul:
+  tops:
+  trader:
+  wood:
